@@ -2,7 +2,7 @@
 
 int main() {
 
-    int arr[100]; /* 100 is max array size */
+    int arr[100]; /* 100 is max array size so this program won't sort a list of length n > 100 */
     int numElements;
     int i, j;
     int temp;
