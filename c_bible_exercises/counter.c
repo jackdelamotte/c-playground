@@ -1,3 +1,5 @@
+/* Exercise 1-8 */
+
 /* Counts blanks, tabs, and newlines in input */
 /* NOTE: use control-D to insert EOF character when running this in terminal. */
 
